@@ -1,0 +1,6 @@
+Readme:
+
+This program in python records daily expenses, and has the option to print a report.
+I saved and retrieved the information in an SQLite database
+
+
